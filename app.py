@@ -78,8 +78,8 @@ ui.plainTextEdit.clear()
 
 ui.pushButton.clicked.connect(startFun)
 
-directory = r"C:\Users\vxv\Documents\vxvPy\Work\AntonBikov\Задание\Без КС 3"
-ui.plainTextEdit.setPlainText(directory)
+# directory = r"C:\Users\vxv\Documents\vxvPy\Work\AntonBikov\Задание\Без КС 3"
+# ui.plainTextEdit.setPlainText(directory)
 
 
 if __name__ == "__main__":
